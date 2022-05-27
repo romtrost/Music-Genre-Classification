@@ -1,2 +1,2 @@
-# CNN music genres classifier
+# CNN Music Genre Classifier
 Classification of music genres using a Convolutional Neural Network.
